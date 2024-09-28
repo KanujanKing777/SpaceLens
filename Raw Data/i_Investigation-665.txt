@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	EFO	NCIT	OBI	RBO	MESH	CRO
+Term Source File	http://data.bioontology.org/ontologies/EFO		http://data.bioontology.org/ontologies/OBI			
+Term Source Version	132		29			
+Term Source Description	Experimental Factor Ontology		Ontology for Biomedical Investigations			
+INVESTIGATION
+Investigation Identifier	
+Investigation Title	
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	OSD-665
+Study Title	Transcriptional profiling of right extensor digitorum longus muscle from mice flown on the RR-23 mission
+Study Description	The objective of the Rodent Research-23 mission (RR-23) was to better understand the effects of spaceflight on the eyes, specifically on the structure and function of the arteries, veins, and lymphatic vessels that are needed to maintain vision. To this end, twenty male, C57BL/6J, 16-17 weeks-old mice were delivered to the International Space Station (ISS) on SpaceX-21 in a single transporter, transferred to two rodent habitats, and maintained in microgravity for 38 days. Flight mice were then returned to Earth alive (January 13th, 2021). After splashdown in the Atlantic Ocean, mice were transported to Kennedy Space Center via helicopter. The 20 Flight, 20 Habitat Ground Control (HGC), and 20 Vivarium Ground Control (VGC) mice were removed from Rodent Transporters (Flight and HGC) or vivarium cages (VGC), placed into shipping containers, and flown to Texas A and M University. There, mice underwent post-flight procedures, before euthanasia and tissue collection. Flight, HGC and VGC animals were euthanized and dissected on Jan 14th, 17th or 20th of 2021, respectively. Right extensor digitorum longus muscle samples were preserved by immersion in liquid nitrogen and stored at -80C until RNA was extracted, and libraries generated and sequenced (target 60 M clusters per sample, PE 150 bp). This dataset features 9 samples from the Flight group, 9 samples from the Habitat Ground Control group, and 9 samples from the Vivarium Ground Control group.
+Study Submission Date	26-Sep-2023
+Study Public Release Date	18-Oct-2023
+Study File Name	s_OSD-665.txt
+Comment[Acknowledgments]	
+Comment[DOI]	10.26030/2bz2-sr51
+Comment[Data Source Accession]	
+Comment[Data Source Link]	
+Comment[Experiment Platform]	Rodent Flight Hardware (Transporter and Habitat)
+Comment[Flight Program]	International Space Station (ISS)
+Comment[Funding]	The sequencing analysis was funded by the NASA Space Biology program within the NASA Science Mission Directorate's (SMD) Biological and Physical Sciences (BPS) Division.
+Comment[Identifiers]	
+Comment[Managing NASA Center]	Ames Research Center (ARC)
+Comment[Mission End]	01/13/2021
+Comment[Mission Link]	https://osdr.nasa.gov/bio/repo/data/missions/SpaceX-21
+Comment[Mission Name]	SpaceX-21
+Comment[Mission Start]	12/05/2020
+Comment[Project Identifier]	RR-23
+Comment[Project Link]	https://nlsp.nasa.gov/view/lsdapub/lsda_experiment/0c15bea7-9c48-5057-af60-7b5e2be8c36c
+Comment[Project Title]	Effects of Microgravity on Ocular Vascular Hydrodynamics
+Comment[Project Type]	Spaceflight Study
+Comment[Space Program]	NASA
+Comment[Study Grant Number]	
+STUDY DESIGN DESCRIPTORS
+Study Design Type	low Earth orbit
+Study Design Type Term Accession Number	http://purl.obolibrary.org/obo/RBO_00000019
+Study Design Type Term Source REF	RBO
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	Spaceflight
+Study Factor Type	Space Flight
+Study Factor Type Term Accession Number	http://purl.bioontology.org/ontology/MESH/D013026
+Study Factor Type Term Source REF	MESH
+STUDY ASSAYS
+Study Assay File Name	a_OSD-665_transcription-profiling_rna-sequencing-(rna-seq)_illumina.txt
+Study Assay Measurement Type	transcription profiling
+Study Assay Measurement Type Term Accession Number	obo:OBI_0000424
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	RNA Sequencing (RNA-Seq)
+Study Assay Technology Type Term Accession Number	obo:OBI_0001271
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	Illumina
+STUDY PROTOCOLS
+Study Protocol Name	Animal Husbandry	sample collection	Nucleic Acid Extraction	Spike-in Protocol	Library Construction	Nucleic Acid Sequencing	GeneLab raw data processing protocol
+Study Protocol Type	Animal Husbandry	sample collection	Nucleic Acid Extraction	spike-in protocol	Library Construction	Nucleic Acid Sequencing	data transformation
+Study Protocol Type Term Accession Number	http://purl.bioontology.org/ontology/MESH/D000822			https://osdr.nasa.gov/			http://purl.obolibrary.org/obo/OBI_0200000
+Study Protocol Type Term Source REF	MESH	MESH	MESH	MESH	MESH	MESH	OBI
+Study Protocol Description	Twenty (20) mice (male, C57BL/6J, 16-17 weeks old) were launched in one Transporter on SpaceX-21 (SpX-21) on December 6, 2020. The Flight mice were transferred into two Rodent Habitats upon arrival to the International Space Station (ISS) and were maintained in microgravity for 38 days. The Flight mice were transferred into a Transporter and returned to Earth for Live Animal Return (LAR) on SpX-21 (January 13th, 2021). After Atlantic Ocean splashdown, the LAR Flight mice were transported via helicopter to Kennedy Space Center. Collectively, 20 Flight, 20 HGC, and 20 VGC mice were transferred from Rodent Transporters (Flight and HGC) or vivarium cages (VGC) and placed into shipping containers. All 60 mice were flown via charter plane to the PI’s institution, Texas A and M University (TAMU). The study followed recommendations in the Guide for the Care and Use of Laboratory Animals and the protocol (Protocol number RR-23) was approved by the NASA Flight Institutional Animal Care and Use Committee (IACUC).	All post-flight euthanasia and dissections were performed by the PI team at TAMU. The original plan was to perform all pre-flight and post-flight activities at Roskamp Institute in Sarasota, Florida. Due to the health risks associated with travel during the COVID-19 pandemic, HRP approved all post-flight activities at TAMU, which significantly decreased or eliminated travel for the PI, BSP, and Payload Developer (PD) teams. Upon arrival at the TAMU Animal Care Facility (ACF), the mice underwent post-flight procedures, followed by euthanasia and tissue collection by the PI team. GeneLab only processed 9/9/9 samples from Flight/HGC/VGC groups in this dataset.	RNA was extracted using the RNeasy Plus Universal Mini Kit (Qiagen, Germantown, MD). Approximately 10mg of tissue was used, weighed, and immediately placed in 850 uL of the QIAzol buffer solution. Homogenization was performed using tissue homogenizing bead mix SSB14B, a mix of stainless steel beads of 0.9-2mm (Next Advance, Raymertown, NY) on Bullet Blender Gold 24 (Next Advance, Raymertown, NY) for 5 minutes at 4oC, speed of 12 per SOP 2.1-Tissue homogenization Using Bullet Blender Gold Bead Beater. Homogenates were centrifuged for 5 minutes at RT and 14,000 g to remove cell debris. The supernatant from each sample was then used to isolate and purify RNA following the manufacturer protocol. RNA was eluted in 30 uL RNAse free H2O. Concentration for all RNA samples were measured using Qubit 3.0 Fluorometer (Thermo Fisher Scientific, Waltham, MA) with Qubit RNA BR kit following SOP 4.1-RNA/DNA/miRNA/cDNA Quantification using Qubit Fluorimeter. RNA quality was assessed using the Agilent 4200 TapeStation with the Agilent RNA ScreenTape (Agilent Technologies, Santa Clara, CA). GeneLab Sample Processing SOP can be found at the GitHub page, https://github.com/nasa/GeneLab-sampleProcessing/tree/master/SOP_docs.	ERCC ExFold RNA Spike-In Mixes (Thermo Fisher Scientific, Waltham, MA, Cat 4456739, v92), Mix 1 or Mix 2, were added on the day of library prep at the concentrations suggested by the manufacturer protocol. SOP 5.2 Use of ERCC Spike-In Mixes and UMRR/UHRR Controls for Total RNA Sequencing. GeneLab Sample Processing SOP can be found at the GitHub page, https://github.com/nasa/GeneLab-sampleProcessing/tree/master/SOP_docs.	RNA ribo depletion and library preparation was done with Illumina TruSeq Stranded Total RNA Library Prep Gold (Illumina Inc., San Diego, CA). Input RNA were approximately 500 ng with RIN greater than 8. Index adapters used were at 1.5 uM (IDT, 384-well xGen Dual Index UMI Adapters). 15 cycles PCR were performed. Library fragment size was assessed using Agilent 4200 TapeStation with D1000 DNA ScreenTape (Agilent Technologies, Santa Clara, CA) following GeneLab SOP 6.3 Quality analysis of sequencing libraries using 4200 TapeStation System with D1000 reagent kit. Pooled library concentration was measured by Qubit 4 Fluorometer (ThermoFisher Scientific, Waltham, MA) following SOP 4.1-RNA/DNA/miRNA/cDNA Quantification using Qubit Fluorimeter. Library quality assessment was performed on iSeq100 (Illumina, San Diego, CA). Two separate libraries were made from the same extracted RNA pool for samples RR23_R-EDL_FLT_F1, RR23_R-EDL_GC_G1, and RR23_R-EDL_VIV_V1, to give technical replicates 1 and 2 for each sample. GeneLab Sample Processing SOP can be found at the GitHub page, https://github.com/nasa/GeneLab-sampleProcessing/tree/master/SOP_docs.	RNA sequencing was performed by GeneLab Sample Processing Lab on Illumina NovaSeq 6000. Sequencing was set up as following: Read 1: 151bp, Index1: 17bp, Index2: 8bp Read 2:151bp. PhiX included as control and to increase library diversity. Protocol followed is SOP 7.1-Setting up NovaSeq 6000 and iSeq 100 Sequencers. GeneLab Sample Processing SOP can be found at the GitHub page, https://github.com/nasa/GeneLab-sampleProcessing/tree/master/SOP_docs.	Raw fastq files from each sample were assessed for % rRNA using HTStream SeqScreener (version 1.3.2) screened against a fasta file of Mus musculus rRNA sequences retrieved from NCBI on Sep-2021. Raw fastq file quality was evaluated with FastQC (version 0.11.9) and MultiQC (version 1.12) was used to generate MultiQC reports.
+Study Protocol URI							
+Study Protocol Version							
+Study Protocol Parameters Name	habitat;duration;light cycle;Enrichment material;diet;Feeding Schedule	Sample Preservation Method;Sample Storage Temperature;Euthanasia Method;Age at Euthanasia;Body Weight upon Euthanasia	QA Instrument;QA Assay;QA Score	Spike-in Quality Control;Spike-in Mix Number	Library Selection;Library Layout;Stranded;Library QA Instrument;Library QA Assay;Fragment Size;Library Batch Number	Sequencing Instrument;Base Caller;Read Length	Read Depth;MultiQC File Names;rRNA Contamination
+Study Protocol Parameters Name Term Accession Number	http://purl.obolibrary.org/obo/ENVO_01000739;http://www.ebi.ac.uk/efo/EFO_0000433;http://purl.obolibrary.org/obo/NCIT_C90419;http://dicom.nema.org/resources/ontology/DCM/127190;http://www.ebi.ac.uk/efo/EFO_0002755;https://osdr.nasa.gov/	https://genelab-data.ndc.nasa.gov/;https://genelab-data.ndc.nasa.gov/;http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl;https://osdr.nasa.gov/;https://osdr.nasa.gov/	;;	https://osdr.nasa.gov/;https://osdr.nasa.gov/	;;;https://osdr.nasa.gov/;https://osdr.nasa.gov/;https://osdr.nasa.gov/;https://osdr.nasa.gov/	;;http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl;https://osdr.nasa.gov/;https://osdr.nasa.gov/
+Study Protocol Parameters Name Term Source REF	;EFO;NCIT;;EFO;	;;NCIT;;	;;	;	;;;;;;	;;NCIT	NCIT;;
+Study Protocol Components Name							
+Study Protocol Components Type							
+Study Protocol Components Type Term Accession Number							
+Study Protocol Components Type Term Source REF							
+STUDY CONTACTS
+Study Person Last Name	Sanders	Zawieja	Costes	Gebre	Dinh	Boyko	Ulhaq	Chen	Lai Polo	Peach	Saravia-Butler
+Study Person First Name	Lauren	David	Sylvain	Samrawit	Marie	Valery	Maha	Yi-Chun	San-Huei	Kristen	Amanda
+Study Person Mid Initials											M
+Study Person Email	lauren.m.sanders@nasa.gov										
+Study Person Phone											
+Study Person Fax											
+Study Person Address											
+Study Person Affiliation	NASA GeneLab	Texas A and M University	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab
+Study Person Roles	conceptualization role	conceptualization role	project administration role	project administration role	investigation role	investigation role	investigation role	investigation role	data curation role	data curation role	formal analysis role
+Study Person Roles Term Accession Number	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology
+Study Person Roles Term Source REF	CRO	CRO	CRO	CRO	CRO	CRO	CRO	CRO	CRO	CRO	CRO
+Comment[orcidIdentifier]	0000-0001-9393-0861	0000-0002-2644-6524	0000-0002-8542-2389	0000-0002-8963-4856		0000-0002-3724-9294	0009-0003-5929-7873	0000-0002-9092-7189	0000-0003-1460-6647	0000-0002-6388-0901	0000-0001-7505-2743

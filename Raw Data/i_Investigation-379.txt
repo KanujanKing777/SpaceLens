@@ -1,0 +1,111 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	EFO	CREDIT	UBERON	NCBITAXON	UO	MESH	MA	NCIT	SO	OBI	CREDIT	GLDS
+Term Source File	https://data.bioontology.org/ontologies/EFO		https://data.bioontology.org/ontologies/UBERON	https://data.bioontology.org/ontologies/NCBITAXON	https://data.bioontology.org/ontologies/UO	https://data.bioontology.org/ontologies/MESH	https://data.bioontology.org/ontologies/MA	https://data.bioontology.org/ontologies/NCIT	https://data.bioontology.org/ontologies/SO			https://genelab-data.ndc.nasa.gov/
+Term Source Version	213		315	17	214	21	126	101	281	44		1
+Term Source Description	Experimental Factor Ontology		Uber Anatomy Ontology	National Center for Biotechnology Information (NCBI) Organismal Classification	Units of Measurement Ontology	Medical Subject Headings	Mouse Adult Gross Anatomy Ontology	National Cancer Institute Thesaurus	Sequence Types and Features Ontology	Ontology for Biomedical Investigations		User defined terms
+INVESTIGATION
+Investigation Identifier	
+Investigation Title	
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	OSD-379
+Study Title	Transcriptional profiling of livers from mice flown on Rodent Research Reference Mission-1 (RRRM-1)
+Study Description	In the Rodent Research Reference Mission (RRRM-1), forty female BALB/cAnNTac mice were flown on the International Space Station. To assess differences in outcomes due to age, twenty 10-12 week-old and twenty 32 week-old mice were flown, respectively. To directly assess spaceflight effects, half of the young and old mice (10 old, 10 young) were sacrificed on-orbit after 22-23 days (ISS Terminal, ISS-T), while the other half (10 old, 10 young) were returned live to Earth after 40 days and allowed to recover for 2 days (Live Animal Return, LAR) before sacrifice. Both the ISS-T and LAR animals had independent ground controls (10 mice housed in flight hardware in matched environmental conditions), basal controls (10 mice sacrificed 1 day after launch), and vivarium controls (10 mice housed within standard vivarium habitats). Thus RRRM-1 included a total of 160 mice. This datasets features ribodepleted total RNA-seq data from livers dissected from all groups in RRRM-1. Data from 7-10 livers per group are included. All samples include either Mix 1 or Mix 2 of the ERCC spike-in control.
+Study Submission Date	27-Apr-2021
+Study Public Release Date	26-May-2021
+Study File Name	s_OSD-379.txt
+Comment[Acknowledgments]	
+Comment[DOI]	10.26030/k766-s627
+Comment[DOI]	10.26030/k766-s627
+Comment[Data Source Accession]	
+Comment[Data Source Link]	
+Comment[Experiment Platform]	Rodent Habitat
+Comment[Flight Program]	Internation Space Station (ISS)
+Comment[Funding]	This sequencing analysis was funded by the NASA Space Biology program within the NASA Science Mission Directorate's (SMD) Biological and Physical Sciences (BPS) Division.
+Comment[Identifiers]	
+Comment[Managing NASA Center]	Ames Research Center (ARC)
+Comment[Mission End]	1/14/19
+Comment[Mission Link]	https://osdr.nasa.gov/bio/repo/data/missions/SpaceX-16
+Comment[Mission Name]	SpaceX-16
+Comment[Mission Start]	12/5/18
+Comment[Project Identifier]	RR-8
+Comment[Project Link]	https://lsda.jsc.nasa.gov/Experiment/exper/27139
+Comment[Project Title]	Rodent Research-8
+Comment[Project Type]	Spaceflight Study
+Comment[Space Program]	NASA
+Comment[Study Grant Number]	
+STUDY DESIGN DESCRIPTORS
+Study Design Type	transcription profiling by high throughput sequencing
+Study Design Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0002770
+Study Design Type Term Source REF	EFO
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	Spaceflight	Duration	Euthanasia Location	Dissection Condition	Age
+Study Factor Type	Space Flight	duration	Euthanasia Location	Dissection Condition	age
+Study Factor Type Term Accession Number	http://purl.bioontology.org/ontology/MESH/D013026	http://www.ebi.ac.uk/efo/EFO_0000433	https://genelab-data.ndc.nasa.gov/		http://www.ebi.ac.uk/efo/EFO_0000246
+Study Factor Type Term Source REF	MESH	EFO	GLDS		EFO
+STUDY ASSAYS
+Study Assay File Name	a_OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq.txt
+Study Assay Measurement Type	transcription profiling
+Study Assay Measurement Type Term Accession Number	obo:OBI_0000424
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	RNA Sequencing (RNA-Seq)
+Study Assay Technology Type Term Accession Number	obo:OBI_0001271
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	Illumina NovaSeq
+STUDY PROTOCOLS
+Study Protocol Name	Animal Husbandry	Sample Collection	nucleic acid extraction	spike-in protocol	library construction	nucleic acid sequencing	GeneLab raw data processing protocol
+Study Protocol Type	Animal Husbandry	Sample Collection	nucleic acid extraction	spike-in protocol	library construction	nucleic acid sequencing	data transformation
+Study Protocol Type Term Accession Number							http://purl.obolibrary.org/obo/OBI_0200000
+Study Protocol Type Term Source REF	OBI	OBI	OBI	OBI	OBI	OBI	OBI
+Study Protocol Description	All mice (BALB/cAnNTac) were sourced from Taconic Biosciences (Germantown, NY).  Mice were weighed, chipped with BMDS RFID chip (IMI-500) and shipped to NASA KSC for delivery at approximately L-4 weeks.  Mice were housed and maintained in the Animal Care Facility (ACF) at NASA KSC with 12:12 light cycle matched in timing to the light cycle used for Transporters and Habitats programmed for flight.  All mice were housed in cages of 5 mice/cage with the same littermates as they had been raised.  Mice were initially given ad lib standard lab chow and water, which was changed on a schedule of 2x per week.  Mice were housed initially on standard bedding and provided igloo-type enrichment.  Animal health was checked daily by appropriately trained NASA personnel and contracted lab technicians.  At L-3 weeks, mice were placed on raised mesh flooring to simulate spaceflight Transporter and Habitat cage conditions, given water delivered through lixits identical to those used in the flight hardware and put on the NASA Nutrient-Upgraded Rodent Foodbars (NuRFB).  Food and water was changed weekly and mice were weighed bi-weekly.  Igloo-type enrichment was provided in all cages.  At L-10 days, mice were grouped (10 mice per cage) in larger cages for social acclimation prior to launch.  Groupings were done based on age of animals and with regard to establishing similar average weights between any given grouping.  At L-2 days, baseline, spaceflight and ground control groups were identified.  At L-1 day, spaceflight animals were loaded into spaceflight Transporters.  Habitat Ground Control (HGC) mice were loaded into Transporters on a 3-day offset from spaceflight animals.  Vivarium Ground Control (VGC) mice (also on a 3-day offset) were returned to 5 mice/cage and placed on standard bedding and provided water through typical sipper tubes at launch equivalent.  All mice were maintained on NuRFB throughout the duration of the study.  Spaceflight and HGC mice were given new food at weekly intervals.  VGC mice were given new food and fresh water also on weekly intervals.  Mold contamination of food: Spaceflight and Habitat Ground Control mice were exposed to mold in their food to unknown relative degrees. The Vivarium Control and Baseline Control mice had clean food throughout their habitation.  Loose food bars: Food bars came loose and fell to the bottom of the cage for the HGC mice and was free floating for the Spaceflight mice.  This did not prevent the mice from eating. This may have caused some degree of stress for these animals that would have been experienced differently between the Spaceflight and HGC groups.  Live animal return: Because weather in the Pacific was very poor, mice experienced double density housing (10 per cage instead of 5) for at least 7 days instead of the expected 2-3 days. Habitat Ground Control mice were treated the same way but this duration of double-density housing probably created additional stress on both groups of mice. In addition, because of rough seas, the Spaceflight mice might have experienced some sea sickness-type conditions that would not have been experienced by the HGC mice.	Live Animal Return (LAR) liver samples: Mice were anesthetized with gas anesthesia and euthanized by means of cardiac puncture blood draw (exsanguination) and double thoracotomy.  The liver was removed, weighed, dissected into individual lobes (1- left/right medial, 2- left lateral and 3- remaining lobes) and snap frozen on liquid nitrogen.  Tissues were frozen within 10-16 minutes of thoracotomy procedure.  All groups (baseline, flight, habitat and vivarium ground controls) were treated identically.  Liver samples were maintained at -80C or lower temperatures throughout the storage during transportation and shipment.   ISS Terminal (ISS-T) liver samples: Mice were anesthetized with ketamine/xylazine and euthanized by means of cardiac puncture blood draw (exsanguination) and double thoracotomy.  The spleen was dissected fresh from each carcass and placed in a tube containing RNA Later.  The carcass was then wrapped in foil and frozen in MELFI on board the ISS or in ground -80C freezers.  Carcasses were maintained at -80C or lower temperatures throughout the storage on board the ISS, in ground freezers and during transportation and shipment.  For liver dissection, carcasses were thawed at room temperature one at a time (staggered) until the tissues were sufficiently pliable for dissection (approximately 60-90 minutes).  Once thawed, the liver was removed from each carcass, weighed, dissected into individual lobes (1- left/right medial, 2- left lateral and 3- remaining lobes) and snap frozen on liquid nitrogen.  Liver samples were maintained at -80C or lower temperatures throughout the storage in ground freezers and during transportation and shipment.	RNA was extracted using the AllPrep DNA/RNA Mini Kit (Qiagen, Valencia, CA). Homogenization buffer for DNA and RNA purification was made by adding 1:100 beta-mercaptoethanol to Buffer RLT (Qiagen, Valencia, CA) and kept on ice until use.  Approximately 20-30 mg of tissue was isolated using a scalpel, weighed and immediately placed in 700 uL of the Buffer RLT solution without thawing the tissue. Homogenization was performed using tissue homogenizing bead mix (Zirconium 2.0mm RINO Lysis, Next Advance) on Bullet Blender Gold 24 (Next Advance) for 5 minutes at 4C.  Homogenates were centrifuged for 3 minutes at RT and 14,000 g to remove cell debris. The supernatant from each sample was then used to isolate and purify DNA and RNA following the manufacturer protocol.  RNA was eluted in 50 uL RNAse free H2O, and DNA was eluted in 50 uL EB buffer. Concentration for all RNA samples were measured using Qubit 3.0 Fluorometer (Thermo Fisher Scientific, Waltham, MA) with Qubit RNA BR kit.  RNA quality was assessed using the Agilent 2100 Bioanalyzer with the Agilent RNA 6000 Nano Kit (Agilent Technologies, Santa Clara, CA) or the Agilent RNA ScreenTape Assay (Agilent Technologies, Santa Clara, CA).	ERCC ExFold RNA Spike-In Mixes (Thermo Fisher Scientific, Waltham, MA Cat # 4456739, v92) at 1:100 dilution of either Mix 1 or Mix 2 were added on the day of library prep at the concentrations suggested by the manufacturer protocol. Mix1 was used for ISS-T FLT, ISS-T BSL, LAR VIV, and LAR GC. Mix 2 was used for ISS-T GC, ISS-T VIV, LAR FLT, and LAR BSL.	RNA ribo depletion was done with Illumina TruSeq Stranded Total RNA Library Prep Gold. Input RNA were approximately 500 ng with RIN > 4. Index adapters were 1.5 uM (IDT, 384-well xGen Dual Index UMI Adapters). 15 cycles PCR were performed. Library fragment size ~340 bp was assessed using Agilent 4200 TapeStation with D1000 DNA ScreenTape (Agilent Technologies, Santa Clara, CA). Pooled library concentration was measured by Qubit 4 Fluorometer (ThermoFisher Scentific, Waltham, MA). Library quality control was determined by iSeq100 (Illumina, San Diego, CA).	RNA sequencing was performed by GeneLab Sample Processing Lab on Illumina NovaSeq 6000. Paired end 149bp. PhiX included as control.	UMIs were extracted from fastq files using UMI-tools (version 1.1.1). Raw fastq files from each sample were assessed for % rRNA using HTStream SeqScreener (version 1.3.2) and raw fastq file quality was evaluated with FastQC (version 0.11.9) and MultiQC (version 1.9) was used to generate MultiQC reports.
+Study Protocol URI							
+Study Protocol Version							
+Study Protocol Parameters Name	Light Cycle;Diet;Feeding Schedule	Euthanasia Method;Carcass Preservation Method;Sample Preservation Method;Sample Storage Temperature	QA Instrument;QA Assay;QA Score	Spike-in Quality Control;Spike-in Mix Number	library selection;library layout;stranded;Library QA Instrument;Library QA Assay;Fragment Size	sequencing instrument;Read Length;base caller	Raw sequence data/MultiQC Reports;rRNA Contamination;Read Depth
+Study Protocol Parameters Name Term Accession Number	;http://purl.bioontology.org/ontology/MESH/D004032;https://osdr.nasa.gov/	;;;	;;	;	;;;;;	;http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl;	https://genelab-data.ndc.nasa.gov/;https://genelab-data.ndc.nasa.gov/;http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl
+Study Protocol Parameters Name Term Source REF	;MESH;	;;;	;;	;	;;;;;	;NCIT;	GLDS;GLDS;NCIT
+Study Protocol Components Name							
+Study Protocol Components Type							
+Study Protocol Components Type Term Accession Number							
+Study Protocol Components Type Term Source REF							
+STUDY CONTACTS
+Study Person Last Name	Galazka	Lai Polo	Vallota Eastman	Saravia-Butler	Charles	Boyko	Degoricija	Narang	Roberts	Stodieck	Gebre	Costes
+Study Person First Name	Jonathan	San-Huei	Alec	Amanda	Houseman	Valery	Lovorka	Shyamli	Michael	Louis	Samrawit	Sylvain
+Study Person Mid Initials	M			M							G	V
+Study Person Email	jonathan.m.galazka@nasa.gov											
+Study Person Phone												
+Study Person Fax												
+Study Person Address												
+Study Person Affiliation	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	NASA GeneLab	ISS National Lab	BioServe Space Technologies	NASA GeneLab	NASA GeneLab
+Study Person Roles	conceptualization role	data curation role	data curation role	formal analysis role	investigation role	investigation role	investigation role	investigation role	project administration role	project administration role	project administration role	project administration role
+Study Person Roles Term Accession Number	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology	http://purl.org/credit/ontology
+Study Person Roles Term Source REF	CREDIT	CREDIT	CREDIT	CREDIT	CREDIT	CREDIT	CREDIT	CREDIT	CREDIT	CREDIT	CREDIT	CREDIT

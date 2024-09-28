@@ -1,0 +1,332 @@
+[
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Term Source Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Term Source File"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Term Source Version"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Term Source Description"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "INVESTIGATION"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Identifier"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Title"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Description"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Submission Date"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Public Release Date"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "INVESTIGATION PUBLICATIONS"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation PubMed ID"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Publication DOI"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Publication Author List"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Publication Title"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Publication Status"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Publication Status Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Publication Status Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "INVESTIGATION CONTACTS"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Last Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person First Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Mid Initials"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Email"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Phone"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Fax"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Address"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Affiliation"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Roles"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Roles Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Investigation Person Roles Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "STUDY"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Identifier"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Title"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Description"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Submission Date"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Public Release Date"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study File Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Acknowledgments]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[DOI]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[DOI]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Data Source Accession]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Data Source Link]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Experiment Platform]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Flight Program]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Funding]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Identifiers]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Managing NASA Center]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Mission End]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Mission Link]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Mission Name]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Mission Start]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Project Identifier]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Project Link]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Project Title]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Project Type]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Space Program]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Comment[Study Grant Number]"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "STUDY DESIGN DESCRIPTORS"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Design Type"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Design Type Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Design Type Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "STUDY PUBLICATIONS"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study PubMed ID"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Publication DOI"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Publication Author List"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Publication Title"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Publication Status"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Publication Status Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Publication Status Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "STUDY FACTORS"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Factor Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Factor Type"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Factor Type Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Factor Type Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "STUDY ASSAYS"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Assay File Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Assay Measurement Type"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Assay Measurement Type Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Assay Measurement Type Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Assay Technology Type"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Assay Technology Type Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Assay Technology Type Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Assay Technology Platform"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "STUDY PROTOCOLS"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Type"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Type Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Type Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Description"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol URI"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Version"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Parameters Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Parameters Name Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Parameters Name Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Components Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Components Type"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Components Type Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Protocol Components Type Term Source REF"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "STUDY CONTACTS"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Last Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person First Name"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Mid Initials"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Email"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Phone"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Fax"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Address"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Affiliation"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Roles"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Roles Term Accession Number"
+    },
+    {
+        "ONTOLOGY SOURCE REFERENCE": "Study Person Roles Term Source REF"
+    }
+]
