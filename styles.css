@@ -1,0 +1,160 @@
+/* Global styles */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f4f7fc;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+#app {
+  max-width: 900px;
+  margin: 20px auto;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+}
+
+header {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+h1 {
+  color: #4a90e2;
+  font-size: 2em;
+  font-weight: 600;
+}
+
+main {
+  padding: 0 20px;
+}
+
+/* Section styles */
+.section {
+  margin-bottom: 30px;
+}
+
+label {
+  font-weight: 500;
+  font-size: 1.1em;
+  color: #555;
+}
+
+.dropdown {
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  font-size: 1em;
+  color: #333;
+  margin-top: 10px;
+}
+
+.dropdown:focus {
+  outline: none;
+  border-color: #4a90e2;
+}
+
+/* Checkbox group */
+.checkbox-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.checkbox-group label {
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.checkbox-group input {
+  margin-right: 5px;
+}
+
+input[type="date"] {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  font-size: 1em;
+  margin-right: 10px;
+  background-color: #f9f9f9;
+}
+
+input[type="date"]:focus {
+  outline: none;
+  border-color: #4a90e2;
+}
+
+/* Buttons */
+.control-btn, .primary-btn {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.primary-btn {
+  background-color: #e94e77;
+}
+
+.primary-btn:hover, .control-btn:hover {
+  background-color: #357ab9;
+}
+
+.reset-btn {
+  background-color: #e94e77;
+}
+
+.reset-btn:hover {
+  background-color: #d13960;
+}
+
+/* Graph Container */
+#graph-container {
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  padding: 30px;
+  border-radius: 8px;
+  min-height: 300px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#graph-container p {
+  color: #888;
+  font-size: 1.2em;
+}
+
+/* Hover effects */
+input[type="checkbox"]:hover + label,
+.dropdown:hover,
+input[type="date"]:hover {
+  border-color: #4a90e2;
+  background-color: #eef5ff;
+}
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  .checkbox-group {
+    flex-direction: column;
+  }
+
+  input[type="date"] {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+}

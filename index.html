@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biological Experiment Visualizer</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>Biological Experiment Visualizer</h1>
+    </header>
+
+    <main>
+      <!-- Dataset Selection -->
+      <div class="section">
+        <label for="dataset-select">Select Dataset:</label>
+        <select id="dataset-select" class="dropdown">
+          <option value="OSD-379">OSD-379 (Rodent Research Reference Mission-1)</option>
+          <option value="OSD-665">OSD-665 (Rodent Research-23)</option>
+          <option value="other">Search Other Datasets (NASA OSDR)</option>
+        </select>
+      </div>
+
+      <!-- Visualization Type -->
+      <div class="section">
+        <label for="visualization-type">Select Visualization Type:</label>
+        <select id="visualization-type" class="dropdown">
+          <option value="timeline">Timeline View</option>
+          <option value="comparison">Comparison View</option>
+          <option value="subject">Subject Data View</option>
+        </select>
+      </div>
+
+      <!-- Metrics to Display -->
+      <div class="section">
+        <label>Metrics to Display:</label>
+        <div class="checkbox-group">
+          <label><input type="checkbox" id="physiological-data" name="metrics" value="physiological"> Physiological Data</label>
+          <label><input type="checkbox" id="genetic-expression" name="metrics" value="genetic"> Genetic Expression</label>
+          <label><input type="checkbox" id="behavioral-data" name="metrics" value="behavioral"> Behavioral Data</label>
+          <label><input type="checkbox" id="treatment-effects" name="metrics" value="treatment"> Treatment Effects</label>
+          <label><input type="checkbox" id="statistical-insights" name="metrics" value="statistical"> Statistical Insights</label>
+        </div>
+      </div>
+
+      <!-- Filter by Time Frame -->
+      <div class="section">
+        <label for="time-frame">Filter by Time Frame:</label>
+        <input title="start-date" type="date" id="start-date" class="input-date">
+        <input title="end-date" type="date" id="end-date" class="input-date">
+      </div>
+
+      <!-- Graph Controls -->
+      <div class="section">
+        <button class="control-btn" id="zoom-in">Zoom In</button>
+        <button class="control-btn" id="zoom-out">Zoom Out</button>
+        <button class="control-btn reset-btn" id="reset-filters">Reset Filters</button>
+      </div>
+
+      <!-- View Similar Experiments -->
+      <div class="section">
+        <button class="primary-btn" id="view-similar-experiments">View Similar Experiments</button>
+      </div>
+
+      <!-- Graph Display Area -->
+      <div id="graph-container">
+        <p>Select a dataset and visualization to see results</p>
+      </div>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
